@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms-Programming-Projects
-This repository contains all of the programming project solutions for DS&amp;A that I have completed.
+Project solutions for Data Structures & Algorithms in Java by Robert Lafore 
