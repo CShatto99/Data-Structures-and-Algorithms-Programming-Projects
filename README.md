@@ -3,7 +3,7 @@ Project solutions for [Data Structures & Algorithms in Java by Robert Lafore](fi
 
 - CHAPTER 4 Stacks and Queues
   - [Project 4.1](Queue.java)	 |  [Project 4.2](Deque.java)	 |  [Project 4.3](Queue.java)	 |  [Project 4.4](Queue.java)	 |  [Project 4.5](Queue.java)
-  
+// Projects beyond this point are incomplete.
 - CHAPTER 5 Linked Lists
   - [Project 5.1]()	 |  [Project 5.2]()	 |  [Project 5.3]()	 |  [Project 5.4]()	 |  [Project 5.5]()  |  [Project 5.6](Queue.java)
   
