@@ -1,4 +1,4 @@
-// this project creates a O(1) insertion time and O(N^2) removal time.
+// this project creates methods for O(1) insertion time and O(N^2) removal time.
 public class RevisedPriorityQ {
 	private int maxSize, nItems;
 	private long[] PQArray;
