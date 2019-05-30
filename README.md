@@ -5,7 +5,7 @@ Project solutions for [Data Structures & Algorithms in Java by Robert Lafore](fi
   - [Project 4.1](Queue.java)	 |  [Project 4.2](Deque.java)	 |  [Project 4.3](DoubleStack.java)	 |  [Project 4.4](RevisedPriorityQ.java)
 // Projects beyond this point are incomplete.
 - CHAPTER 5 Linked Lists
-  - [Project 5.1](LinkedPriorityQ.java)	 |  [Project 5.2]()	 |  [Project 5.3]()	 |  [Project 5.4]()	 |  [Project 5.5]()  |  [Project 5.6](Queue.java)
+  - [Project 5.1](LinkedPriorityQ.java)	 |  [Project 5.2](Deque.java)	 |  [Project 5.3]()	 |  [Project 5.4]()	 |  [Project 5.5]()  |  [Project 5.6](Queue.java)
   
 - CHAPTER 6 Recursion
   - [Project 6.1]()	 |  [Project 6.2]()	 |  [Project 6.3]()	 |  [Project 6.4]()	 |  [Project 6.5]()
