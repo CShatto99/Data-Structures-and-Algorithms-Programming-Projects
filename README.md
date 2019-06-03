@@ -8,7 +8,7 @@ Project solutions for [Data Structures & Algorithms in Java by Robert Lafore](fi
   - [Project 5.1](LinkedPriorityQ.java)	 |  [Project 5.2](Deque.java)	 |  [Project 5.3](CircularList.java)	 |  [Project 5.4](CircularLinkedStack.java)	 |  [Project 5.5](JosephusProblem.java)  |  [Project 5.6](Queue.java)
   // Projects beyond this point are incomplete.
 - CHAPTER 6 Recursion
-  - [Project 6.1]()	 |  [Project 6.2]()	 |  [Project 6.3]()	 |  [Project 6.4]()	 |  [Project 6.5]()
+  - [Project 6.1](TestClass.java)	 |  [Project 6.2]()	 |  [Project 6.3]()	 |  [Project 6.4]()	 |  [Project 6.5]()
   
 - CHAPTER 7 Advanced Sorting
   - [Project 7.1]()	 |  [Project 7.2]()	 |  [Project 7.3]()	 |  [Project 7.4]()	 |  [Project 7.5]()
