@@ -2,14 +2,15 @@
 Project solutions for [Data Structures & Algorithms in Java by Robert Lafore](file:///E:/Free%20Time/Data%20Structures%20and%20Algorithms/DS&A%20Java%202nd%20Edition.pdf)
 
 - CHAPTER 4 Stacks and Queues
-  - [Project 4.1](Queue.java)	 |  [Project 4.2](Deque.java)	 |  [Project 4.3](DoubleStack.java)	 |  [Project 4.4](RevisedPriorityQ.java)
+  - [Project 4.1](Queue.java)	 |  [Project 4.2](Deque.java)	 |  [Project 4.3](DoubleStack.java)	 |  [Project 4.4](RevisedPriorityQ.java)	 |  [Project 4.5 (incomplete)]()
 
 - CHAPTER 5 Linked Lists
-  - [Project 5.1](LinkedPriorityQ.java)	 |  [Project 5.2](Deque.java)	 |  [Project 5.3](CircularList.java)	 |  [Project 5.4](CircularLinkedStack.java)	 |  [Project 5.5](JosephusProblem.java)  |  [Project 5.6](Queue.java)
-  // Projects beyond this point are incomplete.
+  - [Project 5.1](LinkedPriorityQ.java)	 |  [Project 5.2](Deque.java)	 |  [Project 5.3](CircularList.java)	 |  [Project 5.4](CircularLinkedStack.java)	 |  [Project 5.5](JosephusProblem.java)  |  [Project 5.6 (incomplete)](Queue.java)
+  
 - CHAPTER 6 Recursion
   - [Project 6.1](TestClass.java)	 |  [Project 6.2]()	 |  [Project 6.3]()	 |  [Project 6.4]()	 |  [Project 6.5]()
-  
+    // Projects beyond this point are incomplete.
+
 - CHAPTER 7 Advanced Sorting
   - [Project 7.1]()	 |  [Project 7.2]()	 |  [Project 7.3]()	 |  [Project 7.4]()	 |  [Project 7.5]()
   
