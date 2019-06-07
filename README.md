@@ -12,7 +12,7 @@ Project solutions for [Data Structures & Algorithms in Java by Robert Lafore](fi
     // Projects beyond this point are incomplete.
 
 - CHAPTER 7 Advanced Sorting
-  - [Project 7.1]()	 |  [Project 7.2]()	 |  [Project 7.3]()	 |  [Project 7.4]()	 |  [Project 7.5]()
+  - [Project 7.1](TestClass7_1.java)	 |  [Project 7.2]()	 |  [Project 7.3]()	 |  [Project 7.4]()	 |  [Project 7.5]()
   
 - CHAPTER 8 Binary Trees
   - [Project 8.1]()	 |  [Project 8.2]()	 |  [Project 8.3]()	 |  [Project 8.4]()	 |  [Project 8.5]()
