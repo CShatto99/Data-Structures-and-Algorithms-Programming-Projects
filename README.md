@@ -9,11 +9,10 @@ Project solutions for [Data Structures & Algorithms in Java by Robert Lafore](fi
   
 - CHAPTER 6 Recursion
   - [Project 6.1](TestClass.java)	 |  [Project 6.2 (incomplete)]()	 |  [Project 6.3](TestClass6_3.java)	 |  [Project 6.4](TestClass6_4.java)	 |  [Project 6.5 (incomplete)]()
-    // Projects beyond this point are incomplete.
 
 - CHAPTER 7 Advanced Sorting
   - [Project 7.1](TestClass7_1.java)	 |  [Project 7.2](TestClass7_2.java)	 |  [Project 7.3](TestClass7_3.java)	 |  [Project 7.4](TestClass7_4.java)	 |  [Project 7.5](TestClass7_5.java)
-  
+   // Projects beyond this point are incomplete.
 - CHAPTER 8 Binary Trees
   - [Project 8.1]()	 |  [Project 8.2]()	 |  [Project 8.3]()	 |  [Project 8.4]()	 |  [Project 8.5]()
   
