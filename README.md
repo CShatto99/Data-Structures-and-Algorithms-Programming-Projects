@@ -29,4 +29,4 @@ Project solutions for [Data Structures & Algorithms in Java by Robert Lafore](fi
   - [Project 13.1]()	 |  [Project 13.2]()	 |  [Project 13.3]()	 |  [Project 13.4]()	 |  [Project 13.5]()
   
 - CHAPTER 14 Weighted Graphs
-  - [Proj)	 |  [Project 14.2]()	 |  [Project 14.3]()	 |  [Project 14.4]()	 |  [Project 14.5]()
+  - [Project 14.1]()	 |  [Project 14.2]()	 |  [Project 14.3]()	 |  [Project 14.4]()	 |  [Project 14.5]()
