@@ -211,7 +211,6 @@ public class TestClass10_1 {
 			for(int i = 0; i < n+1; i++) {
 				Node nextNode = current.getChild(i);
 				if(nextNode != null) {
-					//nextNode.displayNode();
 					recDisplayTree(nextNode, level+1, i);
 				}
 				else
