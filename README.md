@@ -20,7 +20,7 @@ Project solutions for [Data Structures & Algorithms in Java by Robert Lafore](fi
   - [Project 10.1](TestClass10_1.java)	 |  [Project 10.2]()	 |  [Project 10.3](TestClass10_3.java)	 |  [Project 10.4]()	 |  [Project 10.5]()
   
 - CHAPTER 11 Hash Tables
-  - [Project 11.1](TestClass11_1.java)	 |  [Project 11.2](TestClass11_2.java)	 |  [Project 11.3]()	 |  [Project 11.4]()	 |  [Project 11.5]()
+  - [Project 11.1](TestClass11_1.java)	 |  [Project 11.2](TestClass11_2.java)	 |  [Project 11.3](TestClass11_3.java)	 |  [Project 11.4](TestClass11_4.java)	 |  [Project 11.5]()
   
 - CHAPTER 12 Heaps
   - [Project 12.1]()	 |  [Project 12.2]()	 |  [Project 12.3]()	 |  [Project 12.4]()	 |  [Project 12.5]()
