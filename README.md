@@ -2,26 +2,23 @@
 Project solutions for [Data Structures & Algorithms in Java by Robert Lafore](file:///E:/Free%20Time/Data%20Structures%20and%20Algorithms/DS&A%20Java%202nd%20Edition.pdf)
 
 - CHAPTER 4 Stacks and Queues
-  - [Project 4.1](Queue.java)	 |  [Project 4.2](Deque.java)	 |  [Project 4.3](DoubleStack.java)	 |  [Project 4.4](RevisedPriorityQ.java)	 |  [Project 4.5 (incomplete)]()
+  - [Project 4.1](Queue.java)	 |  [Project 4.2](Deque.java)	 |  [Project 4.3](DoubleStack.java)	 |  [Project 4.4](RevisedPriorityQ.java)
 
 - CHAPTER 5 Linked Lists
-  - [Project 5.1](LinkedPriorityQ.java)	 |  [Project 5.2](Deque.java)	 |  [Project 5.3](CircularList.java)	 |  [Project 5.4](CircularLinkedStack.java)	 |  [Project 5.5](JosephusProblem.java)  |  [Project 5.6 (incomplete)](Queue.java)
+  - [Project 5.1](LinkedPriorityQ.java)	 |  [Project 5.2](Deque.java)	 |  [Project 5.3](CircularList.java)	 |  [Project 5.4](CircularLinkedStack.java)	 |  [Project 5.5](JosephusProblem.java)
   
 - CHAPTER 6 Recursion
-  - [Project 6.1](TestClass.java)	 |  [Project 6.2 (incomplete)]()	 |  [Project 6.3](TestClass6_3.java)	 |  [Project 6.4](TestClass6_4.java)	 |  [Project 6.5 (incomplete)]()
+  - [Project 6.1](TestClass.java)	 |  [Project 6.3](TestClass6_3.java)	 |  [Project 6.4](TestClass6_4.java)
 
 - CHAPTER 7 Advanced Sorting
   - [Project 7.1](TestClass7_1.java)	 |  [Project 7.2](TestClass7_2.java)	 |  [Project 7.3](TestClass7_3.java)	 |  [Project 7.4](TestClass7_4.java)	 |  [Project 7.5](TestClass7_5.java)
-   // Projects beyond this point are incomplete.
-- CHAPTER 8 Binary Trees
-  - [Project 8.1]()	 |  [Project 8.2]()	 |  [Project 8.3]()	 |  [Project 8.4]()	 |  [Project 8.5]()
-  
+   
 - CHAPTER 10 2-3-4 Trees and External Storage
-  - [Project 10.1](TestClass10_1.java)	 |  [Project 10.2]()	 |  [Project 10.3](TestClass10_3.java)	 |  [Project 10.4]()	 |  [Project 10.5]()
+  - [Project 10.1](TestClass10_1.java)	 |  [Project 10.3](TestClass10_3.java)
   
 - CHAPTER 11 Hash Tables
-  - [Project 11.1](TestClass11_1.java)	 |  [Project 11.2](TestClass11_2.java)	 |  [Project 11.3](TestClass11_3.java)	 |  [Project 11.4](TestClass11_4.java)	 |  [Project 11.5]()
-  
+  - [Project 11.1](TestClass11_1.java)	 |  [Project 11.2](TestClass11_2.java)	 |  [Project 11.3](TestClass11_3.java)	 |  [Project 11.4](TestClass11_4.java)	 |  [Project 11.5](TestClass11_5.java)
+  // Projects beyond this point are incomplete.
 - CHAPTER 12 Heaps
   - [Project 12.1]()	 |  [Project 12.2]()	 |  [Project 12.3]()	 |  [Project 12.4]()	 |  [Project 12.5]()
   
