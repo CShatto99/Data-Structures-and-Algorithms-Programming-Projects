@@ -20,7 +20,7 @@ Project solutions for [Data Structures & Algorithms in Java by Robert Lafore](fi
   - [Project 11.1](TestClass11_1.java)	 |  [Project 11.2](TestClass11_2.java)	 |  [Project 11.3](TestClass11_3.java)	 |  [Project 11.4](TestClass11_4.java)	 |  [Project 11.5](TestClass11_5.java)
   // Projects beyond this point are incomplete.
 - CHAPTER 12 Heaps
-  - [Project 12.1]()	 |  [Project 12.2]()	 |  [Project 12.3]()	 |  [Project 12.4]()	 |  [Project 12.5]()
+  - [Project 12.1](TestClass12_1.java)	 |  [Project 12.2](TestClass12_2.java)	 |  [Project 12.3]()	 |  [Project 12.4]()	 |  [Project 12.5]()
   
 - CHAPTER 13 Graphs
   - [Project 13.1]()	 |  [Project 13.2]()	 |  [Project 13.3]()	 |  [Project 13.4]()	 |  [Project 13.5]()
