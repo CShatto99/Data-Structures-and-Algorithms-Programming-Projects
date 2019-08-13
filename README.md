@@ -21,9 +21,9 @@ Project solutions for [Data Structures & Algorithms in Java by Robert Lafore](fi
   
 - CHAPTER 12 Heaps
   - [Project 12.1](TestClass12_1.java)	 |  [Project 12.2](TestClass12_2.java)	 |  [Project 12.3](TestClass12_3.java)	 |  [Project 12.4](TestClass12_4.java)
-    // Projects beyond this point are incomplete.
+    
 - CHAPTER 13 Graphs
   - [Project 13.1](TestClass13_1.java)	 |  [Project 13.2](TestClass13_2.java)	 |  [Project 13.3]()	 |  [Project 13.4]()	 |  [Project 13.5]()
-  
+  // Projects beyond this point are incomplete.
 - CHAPTER 14 Weighted Graphs
   - [Project 14.1]()	 |  [Project 14.2]()	 |  [Project 14.3]()	 |  [Project 14.4]()	 |  [Project 14.5]()
