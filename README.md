@@ -2,7 +2,7 @@
 Project solutions for [Data Structures & Algorithms in Java by Robert Lafore](file:///E:/Free%20Time/Data%20Structures%20and%20Algorithms/DS&A%20Java%202nd%20Edition.pdf)
 
 - CHAPTER 4 Stacks and Queues
-  - [Project 4.1](Queue.java)	 |  [Project 4.2](Deque.java)	 |  [Project 4.3](DoubleStack.java)	 |  [Project 4.4](RevisedPriorityQ.java)
+  - [Project 4.1](TestClass4_1.java)	 |  [Project 4.2](Deque.java)	 |  [Project 4.3](DoubleStack.java)	 |  [Project 4.4](RevisedPriorityQ.java)
 
 - CHAPTER 5 Linked Lists
   - [Project 5.1](LinkedPriorityQ.java)	 |  [Project 5.2](Deque.java)	 |  [Project 5.3](CircularList.java)	 |  [Project 5.4](CircularLinkedStack.java)	 |  [Project 5.5](JosephusProblem.java)
