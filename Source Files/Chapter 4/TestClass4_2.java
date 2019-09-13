@@ -1,3 +1,4 @@
+// This project will implement an array-based deque.
 // TEST CLASS
 public class TestClass4_2 {
 	
@@ -13,6 +14,18 @@ public class TestClass4_2 {
 			front = 0;
 			rear = -1;
 			arr = new long[maxSize];
+			
+		}
+		
+		public boolean isEmpty() {
+			
+			return (rear == -1 && front == 0);
+			
+		}
+		
+		public boolean isFull() {
+			
+			return (rear == maxSize-1);
 			
 		}
 		
