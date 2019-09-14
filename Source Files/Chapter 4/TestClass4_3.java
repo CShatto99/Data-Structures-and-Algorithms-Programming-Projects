@@ -1,6 +1,8 @@
 // This project implements a double-ended stack.
 // TEST METHOD
 public class TestClass4_3 {
+	
+	// DOUBLE-ENDED STACK CLASS
 	public static class DoubleEndedStack {
 		
 		private int maxSize, top, bottom;
@@ -71,7 +73,9 @@ public class TestClass4_3 {
 		}
 		
 	}
+	// END DOUBLE-ENDED STACK
 	
+	// TEST METHOD
 	public static void main(String[] args) {
 		
 		int size = 3;
@@ -88,5 +92,7 @@ public class TestClass4_3 {
 		s.display();
 		
 	}
+	// END TEST METHOD
 	
 }
+// END TEST CLASS
