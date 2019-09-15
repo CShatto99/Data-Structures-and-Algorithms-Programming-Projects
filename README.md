@@ -2,13 +2,13 @@
 Project solutions for [Data Structures & Algorithms in Java by Robert Lafore](file:///E:/Free%20Time/Data%20Structures%20and%20Algorithms/DS&A%20Java%202nd%20Edition.pdf)
 
 - CHAPTER 4 Stacks and Queues
-  - [Project 4.1](TestClass4_1.java)	 |  [Project 4.2](Deque.java)	 |  [Project 4.3](DoubleStack.java)	 |  [Project 4.4](RevisedPriorityQ.java)
+  - [Project 4.1](TestClass4_1.java)	 |  [Project 4.2](TestClass4_2.java)	 |  [Project 4.3](TestClass4_3.java)	 |  [Project 4.4](TestClass4_4.java)
 
 - CHAPTER 5 Linked Lists
-  - [Project 5.1](LinkedPriorityQ.java)	 |  [Project 5.2](Deque.java)	 |  [Project 5.3](CircularList.java)	 |  [Project 5.4](CircularLinkedStack.java)	 |  [Project 5.5](JosephusProblem.java)
+  - [Project 5.1](TestClass5_1.java)	 |  [Project 5.2](TestClass5_2.java)	 |  [Project 5.3](TestClass5_3.java)	 |  [Project 5.4](TestClass5_4.java)	 |  [Project 5.5](TestClass5_5.java)
   
 - CHAPTER 6 Recursion
-  - [Project 6.1](TestClass.java)	 |  [Project 6.3](TestClass6_3.java)	 |  [Project 6.4](TestClass6_4.java)
+  - [Project 6.1](TestClass6_1.java)	 |  [Project 6.3](TestClass6_3.java)	 |  [Project 6.4](TestClass6_4.java)
 
 - CHAPTER 7 Advanced Sorting
   - [Project 7.1](TestClass7_1.java)	 |  [Project 7.2](TestClass7_2.java)	 |  [Project 7.3](TestClass7_3.java)	 |  [Project 7.4](TestClass7_4.java)	 |  [Project 7.5](TestClass7_5.java)
